@@ -1,0 +1,22 @@
+<h1> "Website" #1 </h2>
+<main>
+<p> Test number one for creating a website using html (coding), I've barley learned anything so this'll be pretty basic. So yeah. </p>
+</main>
+<img src="https://makeawebsitehub.com/wp-content/uploads/2016/02/learn-code-e1455713167295.jpg" alt= A bunch of code on a computer.">
+</hml>
+
+<p>
+anyways heres <a target="_blank" href="https://www.youtube.com/"> youtube</a>
+</p>
+
+<form action="https://www.formbackend.com/f/8b6263489c506107"><input type="text" placeholder="let me know if it sent you to youtube!"></form>
+
+<p>
+My top 3 recommendations for videos on youtube are:
+</p>
+
+<ol>
+<li>The DEEZ NUTS vid</li>
+<li>WEATHER BOY video</li>
+<li>APE WITH AK-47 vid</li>
+</ol>
